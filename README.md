@@ -29,7 +29,7 @@ Whether you're a developer, privacy nut, or just tired of clunky mobile apps —
 
 ## 📸 Sneak Peek
 
-![App Screenshot](https://raw.githubusercontent.com/balibabu/authenticator/main/screenshot.png)  
+![App Screenshot](https://raw.githubusercontent.com/balibabu/authenticator/refs/heads/main/screenshot.png)  
 <sub>*Minimalist. Fast. Private.*</sub>
 
 ---
