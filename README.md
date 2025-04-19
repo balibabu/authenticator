@@ -23,7 +23,7 @@ Whether you're a developer, privacy nut, or just tired of clunky mobile apps —
 - ⚡ **Auto Code Refresh** – 6-digit tokens update every 30 seconds
 - 🌈 **TailwindCSS UI** – Clean, responsive, mobile-friendly design
 - 🔑 **Secure Token Generation** – Powered by `crypto-js`, no third-party backends
-- 🌐 **PWA Ready** (optional upgrade) – Add it to your home screen like a native app
+- 🌐 **PWA Ready** – Add it to your home screen like a native app
 
 ---
 
